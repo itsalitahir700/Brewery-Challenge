@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/artistsevents/static/css/main.2f1e6ce2.chunk.css",
+    "main.js": "/artistsevents/static/js/main.9df77708.chunk.js",
+    "main.js.map": "/artistsevents/static/js/main.9df77708.chunk.js.map",
+    "runtime-main.js": "/artistsevents/static/js/runtime-main.6ee2e9ff.js",
+    "runtime-main.js.map": "/artistsevents/static/js/runtime-main.6ee2e9ff.js.map",
+    "static/css/2.9233ae65.chunk.css": "/artistsevents/static/css/2.9233ae65.chunk.css",
+    "static/js/2.4d770850.chunk.js": "/artistsevents/static/js/2.4d770850.chunk.js",
+    "static/js/2.4d770850.chunk.js.map": "/artistsevents/static/js/2.4d770850.chunk.js.map",
+    "index.html": "/artistsevents/index.html",
+    "precache-manifest.9c0d9f5fb49806c5cc8eea9616e8f1a3.js": "/artistsevents/precache-manifest.9c0d9f5fb49806c5cc8eea9616e8f1a3.js",
+    "service-worker.js": "/artistsevents/service-worker.js",
+    "static/css/2.9233ae65.chunk.css.map": "/artistsevents/static/css/2.9233ae65.chunk.css.map",
+    "static/css/main.2f1e6ce2.chunk.css.map": "/artistsevents/static/css/main.2f1e6ce2.chunk.css.map",
+    "static/js/2.4d770850.chunk.js.LICENSE.txt": "/artistsevents/static/js/2.4d770850.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ee2e9ff.js",
+    "static/css/2.9233ae65.chunk.css",
+    "static/js/2.4d770850.chunk.js",
+    "static/css/main.2f1e6ce2.chunk.css",
+    "static/js/main.9df77708.chunk.js"
+  ]
+}

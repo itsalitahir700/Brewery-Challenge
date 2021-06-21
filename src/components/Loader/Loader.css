@@ -1,0 +1,19 @@
+.spinner-border {
+  display: inline-block;
+  width: 6rem !important;
+  height: 6rem !important;
+  vertical-align: text-bottom;
+  border: 0.25em solid currentColor;
+  border-right-color: transparent;
+  border-radius: 50%;
+  animation: spinner-border 0.75s linear infinite;
+}
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
